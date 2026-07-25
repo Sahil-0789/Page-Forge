@@ -229,7 +229,7 @@ export default function Dashboard() {
         <div className="w-48 h-px bg-gradient-to-r from-transparent via-white/10 to-transparent" />
         <p className="text-[11px] tracking-widest uppercase text-slate-600 font-medium select-none">
           Made with <span className="text-brand-500/60 mx-0.5">♥</span> by{' '}
-          <span className="text-brand-400/60 font-semibold">blckspidey</span>
+          <span className="text-brand-400/60 font-semibold">SAHIL</span>
         </p>
       </div>
     </div>
